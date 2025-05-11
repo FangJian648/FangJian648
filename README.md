@@ -2,4 +2,3 @@
 
 ![FangJian's GitHub stats](https://github-readme-stats-fangjians-projects.vercel.app/api?username=FangJian648&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER&show_icons=true&include_all_commits=true&count_private=true&theme=algolia)
 
-![Ice-W0lfTop Langs](https://github-readme-stats-fangjians-projects.vercel.app/api/top-langs/?username=FangJian648&theme=algolia&layout=compact)
